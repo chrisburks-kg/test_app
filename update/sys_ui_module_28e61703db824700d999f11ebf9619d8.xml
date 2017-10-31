@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tester App">64e61703db824700d999f11ebf9619d6</application>
+        <filter/>
+        <name>Tester App Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_83829_tester_app.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>chris.burks</sys_created_by>
+        <sys_created_on>2017-10-31 11:40:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>28e61703db824700d999f11ebf9619d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tester App Table</sys_name>
+        <sys_package display_value="Tester App" source="x_83829_tester_app">6fd61fcfdb424700d999f11ebf9619cb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tester App">6fd61fcfdb424700d999f11ebf9619cb</sys_scope>
+        <sys_update_name>sys_ui_module_28e61703db824700d999f11ebf9619d8</sys_update_name>
+        <sys_updated_by>chris.burks</sys_updated_by>
+        <sys_updated_on>2017-10-31 11:40:03</sys_updated_on>
+        <table>x_83829_tester_app_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

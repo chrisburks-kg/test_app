@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tester App">f3d69303db824700d999f11ebf9619d1</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tester App Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_83829_tester_app_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_83829_tester_app.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>chris.burks</sys_created_by>
+        <sys_created_on>2017-10-31 11:40:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>64e61703db824700d999f11ebf9619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tester App Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tester App" source="x_83829_tester_app">6fd61fcfdb424700d999f11ebf9619cb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tester App">6fd61fcfdb424700d999f11ebf9619cb</sys_scope>
+        <sys_update_name>sys_app_module_64e61703db824700d999f11ebf9619c7</sys_update_name>
+        <sys_updated_by>chris.burks</sys_updated_by>
+        <sys_updated_on>2017-10-31 11:40:02</sys_updated_on>
+        <timeline_page/>
+        <title>Tester App Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

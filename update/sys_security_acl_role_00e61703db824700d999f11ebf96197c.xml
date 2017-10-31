@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>chris.burks</sys_created_by>
+        <sys_created_on>2017-10-31 11:40:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>00e61703db824700d999f11ebf96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_83829_tester_app_table.x_83829_tester_app.user</sys_name>
+        <sys_package display_value="Tester App" source="x_83829_tester_app">6fd61fcfdb424700d999f11ebf9619cb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tester App">6fd61fcfdb424700d999f11ebf9619cb</sys_scope>
+        <sys_security_acl display_value="x_83829_tester_app_table">84e61703db824700d999f11ebf961978</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_00e61703db824700d999f11ebf96197c</sys_update_name>
+        <sys_updated_by>chris.burks</sys_updated_by>
+        <sys_updated_on>2017-10-31 11:40:00</sys_updated_on>
+        <sys_user_role display_value="x_83829_tester_app.user" name="x_83829_tester_app.user">fbd69303db824700d999f11ebf9619d4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
